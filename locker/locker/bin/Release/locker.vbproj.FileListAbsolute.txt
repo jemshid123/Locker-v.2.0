@@ -1,0 +1,13 @@
+C:\Users\others\Desktop\locker\locker\bin\Release\locker.exe
+C:\Users\others\Desktop\locker\locker\bin\Release\locker.pdb
+C:\Users\others\Desktop\locker\locker\bin\Release\locker.xml
+C:\Users\others\Desktop\locker\locker\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Users\others\Desktop\locker\locker\obj\x86\Release\WindowsApplication1.Form2.resources
+C:\Users\others\Desktop\locker\locker\obj\x86\Release\WindowsApplication1.Form3.resources
+C:\Users\others\Desktop\locker\locker\obj\x86\Release\WindowsApplication1.Form4.resources
+C:\Users\others\Desktop\locker\locker\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\others\Desktop\locker\locker\obj\x86\Release\locker.vbproj.GenerateResource.Cache
+C:\Users\others\Desktop\locker\locker\obj\x86\Release\locker.exe
+C:\Users\others\Desktop\locker\locker\obj\x86\Release\locker.xml
+C:\Users\others\Desktop\locker\locker\obj\x86\Release\locker.pdb
+C:\Users\others\Desktop\locker\locker\obj\x86\Release\WindowsApplication1.Form5.resources
